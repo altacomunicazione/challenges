@@ -20,7 +20,7 @@ Você vai criar uma aplicação de cadastro de usuários e produtos, a partir de
 
 A modelagem inicial para a implementação da solução é a seguinte:
 
-[![](/images/modelo.png)](https://www.altacomunicazione.com.br/)
+[![](images/modelo.png)](https://www.altacomunicazione.com.br/)
 
 Altere esta modelagem conforme achar necessário.
 
